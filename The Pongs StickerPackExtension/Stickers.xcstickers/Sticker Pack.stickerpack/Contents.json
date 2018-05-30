@@ -1,0 +1,14 @@
+{
+  "stickers" : [
+    {
+      "filename" : "rons.sticker"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  }
+}
